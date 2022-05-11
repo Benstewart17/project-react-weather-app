@@ -12,11 +12,11 @@ function App() {
       </header>
       <footer>
         This project was coded by{" "}
-        <a href="https://polite-lolly-42a4da.netlify.app/" target="_blank">
+        <a href="https://polite-lolly-42a4da.netlify.app/" target="_blank" rel="noopener noreferrer">
           Ben Stewart
         </a>{" "}
         and is{" "}
-        <a href="https://github.com/Benstewart17/weather-react-three" target="_blank">
+        <a href="https://github.com/Benstewart17/weather-react-three" target="_blank" rel="noopener noreferrer">
           open-sourced on GitHub
         </a>
       </footer>
